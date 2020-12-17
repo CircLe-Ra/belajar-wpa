@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Barking gecko","category":"Crimson"},
+{"id":2,"name":"Carpet snake","category":"Yellow"},
+{"id":3,"name":"Tern, royal","category":"Violet"},
+{"id":4,"name":"Ringtail cat","category":"Teal"},
+{"id":5,"name":"Crow, pied","category":"Green"},
+{"id":6,"name":"Nuthatch, red-breasted","category":"Teal"},
+{"id":7,"name":"Greater rhea","category":"Blue"},
+{"id":8,"name":"Glider, sugar","category":"Khaki"},
+{"id":9,"name":"Wood pigeon","category":"Purple"},
+{"id":10,"name":"Tortoise, galapagos","category":"Teal"},
+{"id":11,"name":"Dove, emerald-spotted wood","category":"Puce"},
+{"id":12,"name":"Goose, knob-nosed","category":"Turquoise"},
+{"id":13,"name":"Red howler monkey","category":"Teal"},
+{"id":14,"name":"Ring dove","category":"Turquoise"},
+{"id":15,"name":"Squirrel, golden-mantled ground","category":"Yellow"},
+{"id":16,"name":"Russian dragonfly","category":"Green"},
+{"id":17,"name":"Squirrel, pine","category":"Yellow"},
+{"id":18,"name":"Tapir, brazilian","category":"Yellow"},
+{"id":19,"name":"Sandhill crane","category":"Indigo"},
+{"id":20,"name":"Ring-tailed possum","category":"Fuscia"}
+]
+}
